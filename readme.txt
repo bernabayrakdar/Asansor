@@ -27,5 +27,5 @@ ile  proje dosyası bulunarak import edilir ve çalıştırılır.
 
 
 
-                                                                                                                                                                                                     180201020 Gamze SAVCIOĞLU
-                                                                                                                                                                                                      170201078 Berna BAYRAKDAR
+                       
+                                                                                                                                     
